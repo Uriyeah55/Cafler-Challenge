@@ -11,3 +11,16 @@ C:\Users\Uri\source\repos\CaflerChallenge\bin\Debug\netcoreapp3.1\CaflerChalleng
 C:\Users\Uri\source\repos\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.dll
 C:\Users\Uri\source\repos\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.pdb
 C:\Users\Uri\source\repos\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.genruntimeconfig.cache
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\bin\Debug\netcoreapp3.1\CaflerChallenge.exe
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\bin\Debug\netcoreapp3.1\CaflerChallenge.deps.json
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\bin\Debug\netcoreapp3.1\CaflerChallenge.runtimeconfig.json
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\bin\Debug\netcoreapp3.1\CaflerChallenge.runtimeconfig.dev.json
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\bin\Debug\netcoreapp3.1\CaflerChallenge.dll
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\bin\Debug\netcoreapp3.1\CaflerChallenge.pdb
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.csprojAssemblyReference.cache
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.AssemblyInfoInputs.cache
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.AssemblyInfo.cs
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.dll
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.pdb
+C:\Users\Uri\source\repos\Cafler-Challenge\CaflerChallenge\obj\Debug\netcoreapp3.1\CaflerChallenge.genruntimeconfig.cache

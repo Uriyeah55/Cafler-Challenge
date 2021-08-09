@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CaflerTest3
-{
     class Version2
     {
         static int MAX_VALUE = 50;
@@ -15,7 +13,7 @@ namespace CaflerTest3
             List<string> valStringList = new List<string>();
             for (int i = 0; i < valNumber; i++)
             {
-                Console.WriteLine("Checking number " + (i + 1) + "to validate");
+                Console.WriteLine("Checking number " + (i + 1) + " to validate");
                 int num = Convert.ToInt32(Console.ReadLine());
                 validList.Add(num);
                 Console.WriteLine("Word to show:");
@@ -50,4 +48,4 @@ namespace CaflerTest3
             }
         }
     }
-}
+

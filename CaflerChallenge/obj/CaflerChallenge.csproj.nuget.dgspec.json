@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uri\\source\\repos\\CaflerChallenge\\CaflerChallenge.csproj": {}
+    "C:\\Users\\Uri\\source\\repos\\Cafler-Challenge\\CaflerChallenge\\CaflerChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uri\\source\\repos\\CaflerChallenge\\CaflerChallenge.csproj": {
+    "C:\\Users\\Uri\\source\\repos\\Cafler-Challenge\\CaflerChallenge\\CaflerChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uri\\source\\repos\\CaflerChallenge\\CaflerChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\Uri\\source\\repos\\Cafler-Challenge\\CaflerChallenge\\CaflerChallenge.csproj",
         "projectName": "CaflerChallenge",
-        "projectPath": "C:\\Users\\Uri\\source\\repos\\CaflerChallenge\\CaflerChallenge.csproj",
+        "projectPath": "C:\\Users\\Uri\\source\\repos\\Cafler-Challenge\\CaflerChallenge\\CaflerChallenge.csproj",
         "packagesPath": "C:\\Users\\Uri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uri\\source\\repos\\CaflerChallenge\\obj\\",
+        "outputPath": "C:\\Users\\Uri\\source\\repos\\Cafler-Challenge\\CaflerChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uri\\AppData\\Roaming\\NuGet\\NuGet.Config",
